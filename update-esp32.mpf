@@ -1,0 +1,5 @@
+open ttyUSB0
+cd /lib
+cd s
+lcd src
+mput .*\.py
