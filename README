@@ -2,6 +2,6 @@
 
 ```
 PATH=$(pwd):$PATH
-sudo mpfshell -s update-esp32.mpf
+sudo mpfshell -s script.mpf
 ```
 
