@@ -1,0 +1,7 @@
+# Automating esp32 app update
+
+```
+PATH=$(pwd):$PATH
+sudo mpfshell -s update-esp32.mpf
+```
+
